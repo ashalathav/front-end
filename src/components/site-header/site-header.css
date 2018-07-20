@@ -1,0 +1,13 @@
+.site-header {
+    height: 80px;
+    /*border: 1px solid red;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 1px 15px 1px #e3e3e3;
+}
+
+.site-header .site-name {
+    font-weight: bold;
+    margin-left: 10px;
+}
