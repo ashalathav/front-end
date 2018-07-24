@@ -3,11 +3,6 @@ import './site-header.css'
 
 export default class SiteHeader extends Component {
 
-  constructor(props){
-    super(props)
-  }
-
-
   render() {
     return (
       <div className='site-header'>

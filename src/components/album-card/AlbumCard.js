@@ -2,6 +2,11 @@ import React, { Component } from 'react'
 import './album-card.css'
 
 export default class AlbumCard extends Component {
+
+  playAlbum = () => {
+
+  }
+
   render(){
     return(
       <div className='album-card'>
